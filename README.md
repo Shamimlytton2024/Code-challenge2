@@ -14,13 +14,10 @@ How to use
 Requirements
     A computer with bash terminal and Node installed.
     Access to the internet.
-
-
-    
-
 Installation Process
 
 1.clone this repository using
+
 
 or by downloading a ZIP file of the code.
 
