@@ -32,8 +32,7 @@ or by downloading a ZIP file of the code.
 
 5.Run the installation using
 
-node index.js
-
+*node index.js*
 TECHNOLOGIES USED
 
 Javascript
