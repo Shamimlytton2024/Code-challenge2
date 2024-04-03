@@ -16,7 +16,7 @@ How to use
 
 Requirements
 
-    A computer with8 bash terminal *and *Node installed.*
+    A computer with *bash terminal *and *Node installed.*
     Access to the internet.
     
 Installation Process
