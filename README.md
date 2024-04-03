@@ -36,6 +36,7 @@ or by downloading a ZIP file of the code.
 *node index.js*
 
 TECHNOLOGIES USED
+
 Javascript
 Node Runtime Environment
 
