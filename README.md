@@ -15,6 +15,7 @@ This is a Javascrirpt fuctions that accepts strings as input and Swaps the case 
 How to use
 
 Requirements
+
     A computer with bash terminal and Node installed.
     Access to the internet.
     
