@@ -1,10 +1,12 @@
 Header; code-challende 2
 Sub-heading
 
-Javascript Application Functions that extracts strings and arrays as input to generate arrays between them and return Primenumbers from the original array,
+Javascript Application Functions that extracts strings and arrays as input to generate arrays between them and return Primenumbers from the original array.
+
 Date
 
 2024/04/02
+
 Description
 
 This is a Javascrirpt fuctions that accepts strings as input and Swaps the case of each character, accepts two numbers to generate an Array between them and takes an array of numbers as input and returns a new array containing only Prime numbers from the original array.
@@ -14,6 +16,7 @@ How to use
 Requirements
     A computer with bash terminal and Node installed.
     Access to the internet.
+    
 Installation Process
 
 1.clone this repository using
@@ -40,6 +43,9 @@ Node Runtime Environment
 Support and Contact Details
 
 Incase of any querry,need for collaboration or issue with this code ,feel free to reach me at shamim.kalande@student.moringaschool.com.
+
+LICESENCE
+This project is under the license of MIT Lisence and environment.
 
 MIT License
 
