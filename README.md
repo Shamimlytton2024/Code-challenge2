@@ -21,11 +21,9 @@ Installation Process
 or by downloading a ZIP file of the code.
 
 2.The repository, if download as a.zip file will need to be extracted to your preferred location
-
     Navigate to the project folder on your bash terminal.
-
     Install depending using
-
+    
 npm install
 
 5.Run the installation using
