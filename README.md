@@ -8,7 +8,9 @@ Date
 Description
 
 This is a Javascrirpt fuctions that accepts strings as input and Swaps the case of each character, accepts two numbers to generate an Array between them and takes an array of numbers as input and returns a new array containing only Prime numbers from the original array.
+
 How to use
+
 Requirements
 
     A computer with bash terminal and Node installed.
