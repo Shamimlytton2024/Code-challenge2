@@ -20,7 +20,7 @@ Requirements
 Installation Process
 
 1.clone this repository using
-
+git@github.com:Shamimlytton2024/Code-challenge2.git
 
 or by downloading a ZIP file of the code.
 
