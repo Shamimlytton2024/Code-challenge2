@@ -28,7 +28,7 @@ or by downloading a ZIP file of the code.
     Navigate to the project folder on your bash terminal.
     Install depending using
     
-npm install
+   * npm install*
 
 5.Run the installation using
 
